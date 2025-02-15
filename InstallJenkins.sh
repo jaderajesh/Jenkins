@@ -1,4 +1,5 @@
-#STEP-1: Installing Git and Maven
+# used in Centos <v8, AWS linux, RHEL, Fedora
+#STEP-1: Installing Git and Maven 
 yum install git maven -y
 
 #STEP-2: Repo Information (jenkins.io --> download -- > redhat)
